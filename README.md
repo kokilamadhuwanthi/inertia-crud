@@ -6,7 +6,7 @@ This project is a web application built using Laravel, Vue.js, Inertia.js, and L
 
 ## **Installation**
 1. Clone the repo
-`git clone https://github.com/bruzp/laravel-inertia.git`
+`[git clone https://github.com/bruzp/laravel-inertia.git](https://github.com/kokilamadhuwanthi/inertia-crud.git)`
 1. Run composer install
 `composer install`
 1. Create .env
